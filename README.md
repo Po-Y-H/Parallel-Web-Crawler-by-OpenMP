@@ -4,7 +4,7 @@
  *  CSCI-GA.3033-034 Multicore Processors, Spring 2022
  *  Instructor: Mohamed Zahran
  *
- *  Group Project 13:	 Parallel Web Crawler
+ *  Group Project 13:	 Parallel Web Crawler by OpenMP
  *
  *  00_seq : sequential version, single crawler.
  *  01_sq  : multi-crawlers shared a link queue and a visited set.
