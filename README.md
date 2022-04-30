@@ -1,4 +1,4 @@
-# Multicore Processors project: Parallel Web Crawler by OpenMP
+# Parallel Web Crawler by OpenMP
 
 New York University
 Multicore Processors
